@@ -11,7 +11,7 @@
 
 - [انگیزه نامه](https://FatemehVakili.github.io/SOP/)
 
-- [JavaScript مدرک](JavaScript_certificate.pdf)
+- [JavaScript_Certificate](JavaScript_certificate.pdf)
 
 - [jlord patchwork](patchwork.png)
 
