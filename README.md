@@ -9,9 +9,11 @@
 
 - [رزومه](https://fatemehvakili.github.io/)
 
-- [SOP](https://FatemehVakili.github.io/SOP/)
+- [انگیزه نامه](https://FatemehVakili.github.io/SOP/)
 
-- [JavaScript_certificate](JavaScript_certificate.pdf)
+- [JavaScript مدرک](JavaScript_certificate.pdf)
+
+- [jlord patchwork](patchwork.png)
 
 ------------------
 ## Winter Semester Courses 1399/2020
