@@ -80,13 +80,4 @@
  <td align="center">6</td>
  </tr>
  
- <tr>
- <th  align="center"></th>
- <td  align="center"></td>
- <td  align="center"></td>
- <td  align="center"></td>
- <td  align="center"></td>
- <td align="center">7</td>
- </tr>
-
 </table>
