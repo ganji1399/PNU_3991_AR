@@ -110,7 +110,7 @@
 <br>
     1. [_LMT03-پوریا بداغی03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/03_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%A8%D8%AF%D8%A7%D8%BA%D9%8A)
 <br>
-    1. [_Web-02_ابوذر رقيب دوست](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/WebProgramming/1322100_01/02_%D8%A7%D8%A8%D9%88%D8%B0%D8%B1%20%D8%B1%D9%82%D9%8A%D8%A8%20%D8%AF%D9%88%D8%B3%D8%AA)
+    1. <a>[_Web-02_ابوذر رقيب دوست]<a>(https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/WebProgramming/1322100_01/02_%D8%A7%D8%A8%D9%88%D8%B0%D8%B1%20%D8%B1%D9%82%D9%8A%D8%A8%20%D8%AF%D9%88%D8%B3%D8%AA)
 <br>
 
 
