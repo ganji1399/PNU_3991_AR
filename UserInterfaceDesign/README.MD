@@ -10,7 +10,7 @@
 </tr>
 
 <tr>
-<td colspan="6"  align="center"> Amazona E-commerce:موضوع پروژه</td>
+<td colspan="6"  align="center"> Amazona E-commerce:موضوع پروژه </td>
 </tr>
 
 <tr>
