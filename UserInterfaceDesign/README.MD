@@ -96,18 +96,15 @@
         - هر 10 نفر یک درس
     2. انتخاب موضوع کار گروهی
     3. تحلیل نیازها
-        - هر دو عضو گروه یک نمونه مشابه
-        - ارائه نیازها همه گروه با هم
+       - طرح دستی اولیه  
+       - دیزاین صفحه اصلی وب سایت و صفحه جزییات هر محصول 
+       - دیزاین اضافه شدن به سبد خرید
+       - js ، html و cssپیاده سازی فرانت با 
     4. تجربه کاربری
-        - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
-            - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
     5. طرح دستی
     6. وایرفریم
-         - [وایرفریم چیست؟ — به زبان ساده](https://blog.faradars.org/%D9%88%D8%A7%DB%8C%D8%B1%D9%81%D8%B1%DB%8C%D9%85-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B3%D8%A7%D8%AF%D9%87/)
     7. نمونه سازی
     8. پیاده سازی
     9. ارزیابی
-        - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
-            - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
     10. ارائه
 
