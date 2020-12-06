@@ -91,6 +91,7 @@
        <br>
     2. انتخاب موضوع کار گروهی
       <br>
+      "Amazona E-commerce"
    3. تحلیل نیازها
       <br>
        - طرح دستی اولیه 
@@ -111,7 +112,7 @@
  <br>
    8. پیاده سازی
   <br>
-  <img src="jsamazona.jpg">
+  <img src="https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/jsamazona.jpg">
    9. ارزیابی
  <br>
   10. ارائه
