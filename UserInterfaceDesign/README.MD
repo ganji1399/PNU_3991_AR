@@ -6,7 +6,7 @@
 
   
 <tr>
-<td colspan="6"  align="center">نام درس :طراحی واسط کاربر</td>
+<td colspan="6"  align="center">نام درس:طراحی واسط کاربر</td>
 </tr>
 
 <tr>
