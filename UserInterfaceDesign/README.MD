@@ -1,3 +1,5 @@
+<div dir="rtl">
+  
 <table style="width:100%">
 
 <tr>
@@ -118,3 +120,5 @@
  <br>
   10. ارائه
 
+
+</div>
