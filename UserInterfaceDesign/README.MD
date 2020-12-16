@@ -1,7 +1,6 @@
+# [PNU_3991 - User Interface Desgin](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/UserInterfaceDesgin/README.md#TOC)
 <div dir="rtl">
-  
-  # [PNU_3991 - User Interface Desgin](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/UserInterfaceDesgin/README.md#TOC)
-  
+    
 <table style="width:100%">
 
 <tr>
