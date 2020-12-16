@@ -10,15 +10,15 @@
 
   
 <tr>
-<td colspan="6"  align="center">نام درس:طراحی واسط کاربر</td>
+<td colspan="6"  align="center">نام درس: طراحی واسط کاربر</td>
 </tr>
 
 <tr>
-<td colspan="6"  align="center"> پیاده سازی سایت خرید آنلاین کالا مشابه آمازون:موضوع پروژه </td>
+<td colspan="6"  align="center"> :موضوع پروژه: پیاده سازی سایت خرید آنلاین کالا مشابه آمازون </td>
 </tr>
 
 <tr>
-<td colspan="6"   align="center">سرگروه تیم:فاطمه وکیلی</td>
+<td colspan="6"   align="center">سرگروه تیم: فاطمه وکیلی</td>
 </tr>
 
 <tr>
