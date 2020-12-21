@@ -113,7 +113,7 @@
     
 5. طرح دستی  
      <br>
-     - [طرح دستی]<a href=”https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/ManualDesign.pdf” download=”ManualDesign.pdf”>Donwload</a>
+     - [طرح دستی]<a href=”ManualDesign.pdf” download=”https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/ManualDesign.pdf”>Donwload</a>
      <br>
 6. وایرفریم 
      <br>
