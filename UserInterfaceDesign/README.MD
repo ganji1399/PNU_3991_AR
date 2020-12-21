@@ -117,7 +117,7 @@
      <br>
 6. وایرفریم 
      <br>
-     - https://github.com/JAbozarOid/jsamazona_full_ecommerce
+     - [وایرفریم پیاده سازی سایت خرید آنلاین کالا مشابه آمازون](https://github.com/JAbozarOid/jsamazona_full_ecommerce)
     <br>
     
 7. نمونه سازی
