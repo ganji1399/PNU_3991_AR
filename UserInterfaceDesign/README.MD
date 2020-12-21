@@ -113,7 +113,7 @@
     
 5. طرح دستی  
      <br>
-     - [طرح دستی](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/ManualDesign.pdf)
+     - [پیاده سازی سایت خرید آنلاین کالا مشابه آمازون ](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/ManualDesign.pdf)
      <br>
 6. وایرفریم 
      <br>
