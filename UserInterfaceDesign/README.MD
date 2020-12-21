@@ -114,7 +114,7 @@
 5. طرح دستی  
      <br>
      - [طرح دستی](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/ManualDesign.pdf)
-   
+     <br>
 6. وایرفریم 
      <br>
      - https://github.com/JAbozarOid/jsamazona_full_ecommerce
