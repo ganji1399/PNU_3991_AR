@@ -93,6 +93,7 @@
  
  1. معرفی یک درس مشابه در دانشگاههای دیگر
        <br>
+       - https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=2IV063
        
 2. انتخاب موضوع کار گروهی
         <br>
