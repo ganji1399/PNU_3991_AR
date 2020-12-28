@@ -130,7 +130,7 @@
         + در صفحه جزییات هر محصول کاربر میتواند با انتخاب گزینه اضافه کردن به سبد خرید محصوا مورد نظر را به سبد خرید اضافه و فرآبند خرید را انجام دهد
     5. طرح دستی
         - [صفحه اصلی]
-            - [طرح دستی صفحه اصلی وب سایت](https://fatemehvakili.github.io/manualdesign/home.pdf)
+            - [طرح دستی صفحه اصلی وب سایت](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/UserInterfaceDesign/ManualDesign/1-%20HomeScreen.pdf)
         - [صفحه جزییات محصول]   
             - [طرح دستی صفحه جزییات هر محصول](https://jabozaroid.github.io/manualdesign/details.pdf)
         - [صفحه ورود و عضویت وبسایت]   
