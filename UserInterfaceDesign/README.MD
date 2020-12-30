@@ -138,7 +138,7 @@
             - [طرح دستی صفحه عضویت در وبسایت](https://jabozaroid.github.io/manualdesign/signin.pdf)
     6. وایرفریم
          - [صفحه اصلی]
-            - [طرح دستی صفحه اصلی وب سایت](https://docs.google.com/presentation/d/1GG3GNLeVq6BlbzQ_L1s5QKyXsvgFoEo-59zauqTFPSg/edit?usp=sharing)
+            - [وایرفریم صفحه اصلی وب سایت](https://docs.google.com/presentation/d/1GG3GNLeVq6BlbzQ_L1s5QKyXsvgFoEo-59zauqTFPSg/edit?usp=sharing)
        
     7. نمونه سازی
         - [صفحه اصلی]
