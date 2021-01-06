@@ -86,11 +86,11 @@
         
     5. طرح دستی
         - [صفحه اصلی]
-            - [طرح دستی صفحه اصلی وب سایت](https://jabozaroid.github.io/manualdesign/home.pdf)
+            - [طرح دستی صفحه اصلی وب سایت](https://ganji1399.github.io/main.jpg)
         - [صفحه جزییات محصول]   
-            - [طرح دستی صفحه جزییات هر محصول](https://jabozaroid.github.io/manualdesign/details.pdf)
+            - [طرح دستی صفحه درباره](https://ganji1399.github.io/aboutt.jpg)
         - [صفحه ورود و عضویت وبسایت]   
-            - [طرح دستی صفحه عضویت در وبسایت](https://jabozaroid.github.io/manualdesign/signin.pdf)
+            - [طرح دستی صفحه ورود به وبسایت](https://ganji1399.github.io/loggin.jpg)
     6. وایرفریم
          - [صفحه اصلی]
             - [HomeScreen Wireframe-link](https://docs.google.com/presentation/d/1GG3GNLeVq6BlbzQ_L1s5QKyXsvgFoEo-59zauqTFPSg/edit?usp=sharing)
