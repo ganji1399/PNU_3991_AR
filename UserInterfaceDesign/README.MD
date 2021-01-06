@@ -35,7 +35,7 @@
  <td  align="center">https://ganji1399.github.io/</td>
  <td  align="center">حمید رضا گنجی</td>
  <td  align="center">970183480</td>
- <td align="center">6</td>
+ <td align="center">1</td>
  </tr>
  
 </table>
