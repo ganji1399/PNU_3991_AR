@@ -5,8 +5,6 @@
 
 ## حمید رضا گنجی
 
-- [پروژه گروهی](https://github.com/JAbozarOid/jsamazona_full_ecommerce)
-
 - [PNU_3991_AR](https://github.com/ganji1399/PNU_3991_AR/)
 
 - [حساب گیت هاب](https://github.com/ganji1399/)
