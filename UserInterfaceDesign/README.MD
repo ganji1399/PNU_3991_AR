@@ -93,8 +93,7 @@
             - [طرح دستی صفحه ورود به وبسایت](https://ganji1399.github.io/loggin.jpeg)
     6. وایرفریم
          - [صفحه اصلی]
-            - [HomeScreen Wireframe-link](https://docs.google.com/presentation/d/1GG3GNLeVq6BlbzQ_L1s5QKyXsvgFoEo-59zauqTFPSg/edit?usp=sharing)
-            - [HomeScreen Wireframe-pdf](https://jabozaroid.github.io/wireframe/HomeScreen_wireframe.pdf)
+            - [HomeScreen Wireframe-pdf](https://ganji1399.github.io/wireframe/wireframe.pdf)
        
     7. نمونه سازی
         - [صفحه اصلی]
