@@ -97,11 +97,11 @@
        
     7. نمونه سازی
         - [صفحه اصلی]
-            - [دیزاین صفحه اصلی وب سایت](https://jabozaroid.github.io/graphicdesign/home.pdf)
+            - [دیزاین صفحه اصلی وب سایت](https://ganji1399.github.io/main.png)
         - [صفحه جزییات محصول]   
-            - [دیزاین صفحه درباره](https://jabozaroid.github.io/graphicdesign/details.pdf)
-        - [صفحه ورود و عضویت وبسایت]   
-            - [دیزاین صفحه ورود به وبسایت](https://jabozaroid.github.io/graphicdesign/signin.pdf)
+            - [دیزاین صفحه درباره](https://ganji1399.github.io/about.png)
+        - [صفحه مجوز ورود به وبسایت]   
+            - [دیزاین صفحه ورود به وبسایت](https://ganji1399.github.io/login.jpg)
             
     8. ارزیابی
         - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
