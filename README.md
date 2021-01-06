@@ -17,8 +17,6 @@
 
 - [JavaScript_Certificate](JavaScript_certificate.pdf)
 
-- [jlord patchwork](patchwork.png)
-
 ------------------
 ### Winter Semester Courses 1399/2020
 
