@@ -13,7 +13,7 @@
 
 - [رزومه](https://ganji1399.github.io/)
 
-- [انگیزه نامه](https://ganji1399.github.io/SOP/)
+- [انگیزه نامه](https://ganji1399.github.io/sop/)
 
 - [JavaScript_Certificate](JavaScript_certificate.pdf)
 
