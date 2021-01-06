@@ -99,17 +99,14 @@
         - [صفحه اصلی]
             - [دیزاین صفحه اصلی وب سایت](https://jabozaroid.github.io/graphicdesign/home.pdf)
         - [صفحه جزییات محصول]   
-            - [دیزاین صفحه جزییات هر محصول](https://jabozaroid.github.io/graphicdesign/details.pdf)
+            - [دیزاین صفحه درباره](https://jabozaroid.github.io/graphicdesign/details.pdf)
         - [صفحه ورود و عضویت وبسایت]   
-            - [دیزاین صفحه ورود وبسایت](https://jabozaroid.github.io/graphicdesign/signin.pdf)
-            - [دیزاین صفحه عضویت وبسایت](https://jabozaroid.github.io/graphicdesign/register.pdf)
-    8. پیاده سازی
-        - [فروشگاه آنلاین فروش لباس با جاوااسکریپت]
-            - [لینک پروژه](https://github.com/JAbozarOid/jsamazona_full_ecommerce) 
-    9. ارزیابی
+            - [دیزاین صفحه ورود به وبسایت](https://jabozaroid.github.io/graphicdesign/signin.pdf)
+            
+    8. ارزیابی
         - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
             - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
-    10. ارائه    
+    9. ارائه    
 
 ------------------------
 </div>
